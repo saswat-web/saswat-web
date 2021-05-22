@@ -1,0 +1,11 @@
+
+.img-div img {
+ height: 200px;
+ width: 50%;
+ margin: 100px;
+position: relative;
+display: block;
+}
+img {
+  height: 600px;
+}
